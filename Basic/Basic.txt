@@ -1,0 +1,4 @@
+Quelle est la différence entre Fast Ethernet 0/1 et 1/1 ?
+Premier chiffre est le module 
+Deuxième chiffre est numéro du port 
+Donc le 0/1 et le 1/1 sont deux modules différents
